@@ -45,3 +45,11 @@ body {
     text-align: center;
     color: white;
 }
+
+#profile-container2 {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: turquoise;
+    border: 2px solid red;
+    border-radius: 15px;
+}
