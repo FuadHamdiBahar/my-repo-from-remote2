@@ -46,7 +46,23 @@ body {
     color: white;
 }
 
+#profile-container3 {
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: red;
+    border: 1px solid darkred;
+    border-radius: 6px;
+}
+
 #profile-container2 {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: turquoise;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+
+#profile-container5 {
     max-width: 500px;
     margin: 20px auto;
     background-color: turquoise;
